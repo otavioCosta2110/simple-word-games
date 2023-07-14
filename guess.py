@@ -15,7 +15,7 @@ none = []
 word = "a"
 rand = random.choice(words)
 
-print("You have to guess a random word the game generated! \nYou only have 5 guesses, use them wisely!\nOnly words with 5 letters are accepted.")
+print("\nYou have to guess a random word the game generated! \nYou only have 5 guesses, use them wisely!\nOnly words with 5 letters are accepted.")
 
 while y < 5:
     if y == 0:
